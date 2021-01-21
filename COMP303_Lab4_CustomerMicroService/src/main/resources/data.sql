@@ -1,0 +1,1 @@
+insert into customer values(1,"Chandler Dr","Deepika@gmail.com","Deepika","Markham","435-325-2678");
