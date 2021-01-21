@@ -1,0 +1,1 @@
+insert into transaction values (2,2,1,"11-06-2020","Lent");
