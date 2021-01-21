@@ -1,0 +1,1 @@
+insert into book values (2,"Harper","Lee","8","To Kill a MockingBird");
